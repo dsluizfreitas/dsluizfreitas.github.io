@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.gruporicoh.simuguia",
+      "sha256_cert_fingerprints": [
+        "F5:AE:57:23:06:18:66:25:12:01:47:B3:B4:A6:53:0B:5B:0D:3F:6D:2E:2C:9C:09:71:CC:66:48:F0:F9:EC:54",
+        "EC:58:32:B8:65:FD:3B:20:14:34:5B:D6:9D:ED:83:3B:47:5B:8D:99:B9:06:E2:27:0B:3A:B5:4C:42:09:9A:20"
+      ]
+    }
+  }
+]
